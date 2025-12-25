@@ -1,5 +1,12 @@
-# ReproHackathon_G6
-Repository made for the ReproHackathon course of the Master 2 AMI2B program (Computational Biology) at Paris-Saclay University. The goal is to reproduce part of the results shown in : https://doi.org/10.1038/s41467-020-15966-7
+## About this fork & my contribution
+This repository is a fork created in the context of the **ReproHackathon** course (AgroParisTech). 
+The goal is to reproduce part of the results shown in : https://doi.org/10.1038/s41467-020-15966-7
+
+Within the group work, my contributions focused on:
+- Understanding and reproducing the bioinformatics workflow described in the original paper
+- Data exploration and result interpretation
+- Pipeline execution, testing, and debugging
+- Documentation and reproducibility analysis
 
 ## Installation
 1) Clone the repository
